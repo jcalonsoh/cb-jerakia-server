@@ -1,0 +1,7 @@
+---
+tomcat:
+  port: 8080
+apache:
+  port:
+    - 80
+    - 443
